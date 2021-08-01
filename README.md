@@ -5,5 +5,5 @@
 ## TLDR
 
 ```shell
-helm repo add m1racoli https://m1racoli.github.io/charts
+helm repo add m1racoli https://m1racoli.io/helm-charts
 ```
